@@ -1,4 +1,4 @@
-# LICENSE
+# cs-hu-250 demo repo
 We learned!
 git clone -
 git add -
